@@ -1,6 +1,6 @@
 # Ministo
 
-Ministo is a collection of scripts to display useful information when mining Monero, Wownero, or another CPU mined crpytocurrency.
+Ministo is a collection of scripts to display useful information when mining Monero, Wownero, or another CPU mined cryptocurrency.
 
 ## General Information:
 ### CPU Temps:
