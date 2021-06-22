@@ -47,8 +47,8 @@ mkdir -p $HOME/.config/tmux
 ### Link scripts to the tmux config directory
 This ensures that any updates will be reflected without the need to manually copy in the future.
 ```shell
-ln -s { path to ministo directory } $HOME/.config/tmux/getAverageCpuMHz.sh
-ln -s { path to Ministo directory } $HOME/.config/tmux/getAverageCpuTemp.sh
+ln -s { path to ministo directory }/getAverageCpuMHz.sh $HOME/.config/tmux/getAverageCpuMHz.sh
+ln -s { path to Ministo directory }/getAverageCpuTemp.sh $HOME/.config/tmux/getAverageCpuTemp.sh
 ```
 
 ### Add the following to tmux (customize as desired)
